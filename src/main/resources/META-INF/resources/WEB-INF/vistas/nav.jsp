@@ -10,6 +10,7 @@
 				<li class="nav-item"><a class="nav-link" href="./lista-productos">Productos</a></li>
 				<li class="nav-item"><a class="nav-link" href="./estadisticas-producto">Estadísticas Producto</a></li>
 				<li class="nav-item"><a class="nav-link" href="./lista-pedidos">Pedidos</a></li>
+				<li class="nav-item"><a class="nav-link" href="./auditorias">Auditorias</a></li>
 			</ul>
 		</div>
 	</div>
